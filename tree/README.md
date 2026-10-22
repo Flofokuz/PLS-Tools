@@ -11,7 +11,7 @@ Built by **Prince Arthur Taylor (FloFokuz)** under **Prologic Strategies LLC**, 
 
 ## 🚀 Try It
 
-**Live app:** (https://flofokuz.github.io/PLS-Tools/)
+**Live app:** https://flofokuz.github.io/PLS-Tools/
 
 No download, no sign-up. Open it in any browser, on your phone or computer.
 
